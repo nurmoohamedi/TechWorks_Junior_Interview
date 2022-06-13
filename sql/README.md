@@ -11,6 +11,7 @@ C помощью SELECT выведите всех пассажиров, кото
 Обязательные поля для вывода: ID пассажира, Имя пассажира как `PASSENGER_NAME`, Название самолета и название компании
 как `COMPANY_NAME`.
 
+https://sql-academy.org/sandbox?data=c3FsPVNFTEVDVCtwLmlkJTJDK3AubmFtZSthcytQQVNTRU5HRVJfTkFNRSUyQyUwQSsrKysrKyt0LnBsYW5lJTJDJTBBKysrKysrK2MubmFtZSthcytDT01QQU5ZX05BTUUlMEFGUk9NK3RyaXArdCUwQWpvaW4rY29tcGFueStjK29uK3QuY29tcGFueSslM0QrYy5pZCUwQSUwQWpvaW4rUGFzc19pbl90cmlwK3BpdCtvbitwaXQudHJpcCslM0QrdC5pZCUwQUpPSU4rcGFzc2VuZ2VyK3Arb24rcC5pZCslM0QrcGl0LnBhc3NlbmdlciUwQSUwQVdIRVJFK2MubmFtZSslM0QrJTI3YWlyX0ZyYW5jZSUyNythbmQrdC5wbGFuZSslM0QrJTI3Qm9laW5nJTI3JTBBKysrKyZkYXRhYmFzZT00ZWQyYjgwOWQ3NDQ2YjlhMGUxMDAwMDE%3D
 <!-- ЗАКРЕПИТЕ ВАШ SELECT ОТ 1 ЗАДАНИЯ ЗДЕСЬ -->
 
 ### Задание 2.
@@ -19,6 +20,7 @@ C помощью SELECT выведите количество пассажиро
 Отсортируйте записи относительно количество пассажиров в порядке убывания(от большего к меньшему).
 Обязательные поля для вывода: Номер полета и Количество пассажиров.
 
+https://sql-academy.org/sandbox?data=c3FsPVNFTEVDVCtwaXQudHJpcCUyQytjb3VudCUyOHBpdC5wYXNzZW5nZXIlMjkrYXMrQ09VTlRfUEFTUyUwQUZST00rUGFzc19pbl90cmlwK3BpdCslMEFHUk9VUCtCeStwaXQudHJpcCUwQU9SREVSK0JZK0NPVU5UX1BBU1MrREVTQysrJTBBJmRhdGFiYXNlPTRlZDJiODA5ZDc0NDZiOWEwZTEwMDAwMQ%3D%3D
 <!-- ЗАКРЕПИТЕ ВАШ SELECT ОТ 2 ЗАДАНИЯ ЗДЕСЬ -->
 
 ### Задание 3.
@@ -28,6 +30,7 @@ C помощью SELECT выведите количество пассажиро
 где количество больше 1. Обязательные поля для вывода: `FIRST_CHAR`(Первая буква имени) 
 и `COUNT` (Количество пассажиров, имена которых начинаются с этой буквы).
 
+https://sql-academy.org/sandbox?data=c3FsPVNFTEVDVCtsZWZ0JTI4cC5uYW1lJTJDKzElMjkrYXMrRklSU1RfQ0hBUiUyQytjb3VudCUyOGxlZnQlMjhwLm5hbWUlMkMrMSUyOSUyOSthcytDT1VOVCUwQUZST00rcGFzc2VuZ2VyK3ArJTBBR1JPVVArQlkrRklSU1RfQ0hBUitIQVZJTkcrQ09VTlQrJTNFKzElMEFPUkRFUitCWStDT1VOVCtERVNDKyUwQSZkYXRhYmFzZT00ZWQyYjgwOWQ3NDQ2YjlhMGUxMDAwMDE%3D
 <!-- ЗАКРЕПИТЕ ВАШ SELECT ОТ 3 ЗАДАНИЯ ЗДЕСЬ -->
 
 <!-- После выполнения всех заданий, необходимо сделать push в репозиторий и отправить ссылку на него -->
