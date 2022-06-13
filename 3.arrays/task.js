@@ -19,9 +19,9 @@ function compareArrays(arr1, arr2) {
 function advancedFilter(arr) {
     let resultArr = [];
 
-    arr.forEach(item => {
-        if (item > 0 && item % 3 === 0)
-            resultArr.push(item*10);
+    arr.forEach(num => {
+        if (num > 0 && num % 3 === 0)
+            resultArr.push(num * 10);
     })
 
     return resultArr; // array
